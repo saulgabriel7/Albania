@@ -1,0 +1,260 @@
+.header{
+    width: 100%;
+    height: 2.25rem;
+    position: fixed;
+    top: 0;
+    background-color: var(--gray);
+}
+
+.logo-link img{
+    width: 2.5rem;
+}
+
+.header-pc{
+    max-width: 100%;
+    padding: 0.12rem;
+    margin: 0 auto;
+    padding-inline: 0.25rem;
+}
+
+.navegacao{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.link-pesq img{
+    width: 1.5rem;
+    padding-right: 0.5rem;
+}
+
+.link{
+    color: #fff;
+    display: block;
+    font-size: 0.25rem;
+    transition: 0.5s ease;
+    text-decoration: none;
+}
+
+.link :hover{
+    opacity: 0.7;
+}
+
+.introducao a{
+    color: #06c;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.linksb{
+    display: block;
+    position: relative;
+    padding-top: 1rem;
+    font-size: 0.75rem;
+}
+
+
+.introducao{
+    margin-top: 4rem;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 1.5rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 1.5rem;
+    padding-block: 1rem;
+    padding-bottom: 2rem;
+}
+
+.introducao h1{
+    font-size: 3rem;
+}
+
+
+.info img{
+    width: 7.8125rem;
+    border-radius: 1rem;
+    margin-block: 1rem;
+}
+
+.info p{
+    font-size: 0.75rem;
+}
+
+.hist{
+    margin-top: 2rem;
+    width: 100%;
+    background-color: var(--gray);
+    border-radius: 1.5rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 1rem;
+    padding-block: 2rem;
+}
+
+.hist h1{
+    color: #fff;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.his img{
+    width: 13.75rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.his p{
+    font-size: 0.75rem;
+    color: #fff;
+    text-align: start;
+}
+
+.economia-tex{
+    margin-top: 2rem;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 1.5rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 1rem;
+    padding-block: 2rem;
+}
+
+.economia-tex h1{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.eco img{
+    width: 13.75rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.eco p{
+    font-size: 0.75rem;
+    text-align: start;
+}
+
+.cultura-tex{
+    margin-top: 2rem;
+    width: 100%;
+    background-color: var(--gray);
+    border-radius: 1.5rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 1rem;
+    padding-block: 2rem;
+}
+
+.cultura-tex h1{
+    font-size: 3rem;
+    text-align: center;
+    color: #fff;
+}
+
+.cultu img{
+    width: 13.75rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.cultu p{
+    font-size: 0.75rem;
+    text-align: start;
+    color: #fff;
+}
+
+.governo-tex{
+    margin-top: 2rem;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 1.5rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 1rem;
+    padding-block: 2rem;
+}
+
+.governo-tex h1{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.gov img{
+    width: 13.75rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.gov p{
+    text-align: start;
+    font-size: 0.75rem;
+}
+
+.demografia-tex{
+    margin-top: 2rem;
+    width: 100%;
+    background-color: var(--gray);
+    border-radius: 1.5rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 1rem;
+    padding-block: 2rem;
+}
+
+.demografia-tex h1{
+    font-size: 2rem;
+    text-align: center;
+    color: #fff;
+}
+
+.demo img{
+    width: 13.75rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.demo p{
+    text-align: start;
+    color: #fff;
+    font-size: 0.75rem;
+}
+
+.curiosidades-tex{
+    margin-top: 2rem;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 1.5rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 1rem;
+    padding-block: 2rem;
+}
+
+.curiosidades-tex h1{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.curi img{
+    width: 13.75rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.curi p{
+    text-align: start;
+    font-size: 0.75rem;
+}
+

@@ -1,0 +1,38 @@
+.videos{
+    padding-top: 5.75rem;
+    align-items: center;
+    justify-content:center;
+    padding-bottom: 1rem;
+    padding-inline: 4.5rem;
+}
+ 
+.vd1{
+    width: 240px;
+    height: 120px;
+}
+
+.vd2{
+    width: 240px;
+    height: 120px;
+}
+
+.vd3{
+    width: 240px;
+    height: 120px;
+}
+
+
+.p p{
+    font-size: 0.75rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.p{
+    padding-inline: 2.75rem;
+}
+
+.botão{
+    text-decoration: none;
+    background-color: var(--gray);
+}
